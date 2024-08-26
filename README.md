@@ -1,5 +1,5 @@
 # Unofficial Comprehensive AWS CDK Resource List
-Watch on [YouTube](https://www.youtube.com/@cloudmancer)
+<!-- Watch on [YouTube](https://www.youtube.com/@cloudmancer) -->
 
 This is a compilation of free resources for the AWS CDK.
 ## Free Resources
