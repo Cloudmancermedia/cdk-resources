@@ -35,8 +35,8 @@ This is a compilation of free and paid resources for the AWS CDK.
     * [Mikeel Khalid's Blog](https://blog.mikaeels.com/series/aws-cdk)
     * [Philip Ninan's Blog](https://blog.phillipninan.com/series/aws-cdk)
     * [Ran the Builder's Blog](https://www.ranthebuilder.cloud/blog/categories/cdk)
-    * [Dakota Lewallen Substack](https://substack.com/@dakotalewallen)
-    * [Ryan Dsouza Dev.to](https://dev.to/ryands17)
+    * [Dakota Lewallen's Substack](https://substack.com/@dakotalewallen)
+    * [Ryan Dsouza's Dev.to](https://dev.to/ryands17)
     * [Rehan van der Merwe's Blog](https://rehanvdm.com/blog/aws-cdk-starter-configuration-multiple-environments-cicd)*
 * YouTube
     * [Be A Better Dev](https://www.youtube.com/@BeABetterDev)
