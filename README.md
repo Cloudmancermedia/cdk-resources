@@ -1,7 +1,8 @@
 # Unoffical Comprehansive AWS CDK Resource List
 Watch on [YouTube]()
+
 This is a compilation of free resources for the AWS CDK.
-## Resources
+
 * [AWS Official CDK Resources Page](https://aws.amazon.com/cdk/resources/) - This should be your first stop when looking for resources! Some of the highlights:
     * [AWS CDK Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/10141411-0192-4021-afa8-2436f3c66bd8/en-US)
       * This is an official tutorial provided by AWS. It’s a great starting point for beginners, offering a step-by-step guide to getting started with the AWS CDK.
