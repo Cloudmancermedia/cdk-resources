@@ -2,7 +2,7 @@
 Watch on [YouTube](https://www.youtube.com/@cloudmancer)
 
 This is a compilation of free resources for the AWS CDK.
-
+## Free Resources
 * [AWS Official CDK Resources Page](https://aws.amazon.com/cdk/resources/) - This should be your first stop when looking for resources! Some of the highlights:
     * [AWS CDK Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/10141411-0192-4021-afa8-2436f3c66bd8/en-US)
       * This is an official tutorial provided by AWS. It’s a great starting point for beginners, offering a step-by-step guide to getting started with the AWS CDK.
@@ -27,7 +27,7 @@ This is a compilation of free resources for the AWS CDK.
     * [Adam Ruka's CDK GitHub Repos](https://github.com/skinny85?tab=repositories&q=cdk&type=&language=&sort=) (Ex-CDK Team, CDK Contributor)
     * [Kaizen Conroy's CDK GitHub Repos](https://github.com/kaizencc?tab=repositories&q=cdk&type=&language=&sort=) (CDK Team)
     * [Jonathan Goldwasser's CDK GitHub Repos](https://github.com/jogold?tab=repositories&q=cdk&type=&language=&sort=) (CDK Contributor)
-    * [Rehan van der Merwe's CDK GitHub Repos](https://github.com/rehanvdm?tab=repositories&q=cdk&type=&language=&sort=) (AWS Community Hero) - Not mentioned in video but worth checking out too!
+    * [Rehan van der Merwe's CDK GitHub Repos](https://github.com/rehanvdm?tab=repositories&q=cdk&type=&language=&sort=) (AWS Community Hero)*
 * Blogs with CDK topics
     * [AWS Dev Tools Blog](https://aws.amazon.com/blogs/developer/tag/aws-cdk/)
     * [AWS DevOps Blog](https://aws.amazon.com/blogs/devops/tag/aws-cdk/)
@@ -37,7 +37,7 @@ This is a compilation of free resources for the AWS CDK.
     * [Ran the Builder's Blog](https://www.ranthebuilder.cloud/blog/categories/cdk)
     * [Dakota Lewallen Substack](https://substack.com/@dakotalewallen)
     * [Ryan Dsouza Dev.to](https://dev.to/ryands17)
-    * [Rehan van der Merwe's Blog](https://rehanvdm.com/blog/aws-cdk-starter-configuration-multiple-environments-cicd) - Not mentioned in video but has some great stuff!
+    * [Rehan van der Merwe's Blog](https://rehanvdm.com/blog/aws-cdk-starter-configuration-multiple-environments-cicd)*
 * YouTube
     * [Be A Better Dev](https://www.youtube.com/@BeABetterDev)
         * This is the best channel on YouTube with the greatest volume of content for the CDK but also AWS in general. Daniel has worked at AWS for almost a decade.
@@ -54,3 +54,10 @@ This is a compilation of free resources for the AWS CDK.
     * A vibrant community where developers can ask questions, share insights, and discuss AWS CDK topics.
 * Reddit for [r/AWS](https://www.reddit.com/r/aws/) and [r/aws_cdk](https://reddit.com/r/aws_cdk/)
     * Engage with the AWS community on Reddit to share experiences, tips, and tricks related to AWS CDK.
+* [Matt Bonig's re:Invent Talk: Advanced AWS CDK](https://www.youtube.com/watch?v=Wzawix9bMAE)*
+
+> **_*_** Not mentioned in the video but still worth checking out!
+
+## Paid Resources
+* [Tofig Hasanov CDK Pipelines Udemy Course](https://www.udemy.com/course/create-continuous-delivery-pipelines-on-aws-using-cdk/) \$64.99 (Frequently on sale for $9.99)
+* [Serverless Architectures on AWS, Second Edition](https://amzn.to/3XkRsb4) \$49.99
