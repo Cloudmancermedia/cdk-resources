@@ -23,7 +23,7 @@ This is a compilation of free and paid resources for the AWS CDK.
 * GitHub Repos of CDK contributors
     * These guys not only contributed to the CDK but also have a lot of repos with CDK code examples of how to do some pretty cool stuff.
     * [Rico Hermans's CDK GitHub Repos](https://github.com/rix0rrr?tab=repositories&q=cdk&type=&language=&sort=) (CDK Contributor)
-    * [Elad Ben-Israel's CDK GitHub Repos](https://taimos.gumroad.com/l/cdkbook) (Creator of the CDK, he’s even got a [book](https://taimos.gumroad.com/l/cdkbook) for $39 on Gumroad)
+    * [Elad Ben-Israel's CDK GitHub Repos](https://github.com/eladb?tab=repositories&q=cdk&type=&language=&sort=) (Creator of the CDK)
     * [Adam Ruka's CDK GitHub Repos](https://github.com/skinny85?tab=repositories&q=cdk&type=&language=&sort=) (Ex-CDK Team, CDK Contributor)
     * [Kaizen Conroy's CDK GitHub Repos](https://github.com/kaizencc?tab=repositories&q=cdk&type=&language=&sort=) (CDK Team)
     * [Jonathan Goldwasser's CDK GitHub Repos](https://github.com/jogold?tab=repositories&q=cdk&type=&language=&sort=) (CDK Contributor)
@@ -60,3 +60,4 @@ This is a compilation of free and paid resources for the AWS CDK.
 
 ## Paid Resources
 * [Tofig Hasanov CDK Pipelines Udemy Course](https://www.udemy.com/course/create-continuous-delivery-pipelines-on-aws-using-cdk/) \$64.99 (Frequently on sale for $9.99)
+* [The CDK Book](https://taimos.gumroad.com/l/cdkbook) $39
