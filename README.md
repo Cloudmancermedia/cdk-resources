@@ -60,4 +60,3 @@ This is a compilation of free resources for the AWS CDK.
 
 ## Paid Resources
 * [Tofig Hasanov CDK Pipelines Udemy Course](https://www.udemy.com/course/create-continuous-delivery-pipelines-on-aws-using-cdk/) \$64.99 (Frequently on sale for $9.99)
-* [Serverless Architectures on AWS, Second Edition](https://amzn.to/3XkRsb4) \$49.99
