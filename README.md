@@ -1,4 +1,4 @@
-# Unoffical Comprehansive AWS CDK Resource List
+# Unofficial Comprehensive AWS CDK Resource List
 Watch on [YouTube]()
 
 This is a compilation of free resources for the AWS CDK.
