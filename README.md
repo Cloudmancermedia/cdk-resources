@@ -28,6 +28,7 @@ This is a compilation of free and paid resources for the AWS CDK.
     * [Kaizen Conroy's CDK GitHub Repos](https://github.com/kaizencc?tab=repositories&q=cdk&type=&language=&sort=) (CDK Team)
     * [Jonathan Goldwasser's CDK GitHub Repos](https://github.com/jogold?tab=repositories&q=cdk&type=&language=&sort=) (CDK Contributor)
     * [Rehan van der Merwe's CDK GitHub Repos](https://github.com/rehanvdm?tab=repositories&q=cdk&type=&language=&sort=) (AWS Community Hero)*
+    * [RAJKUMAR KALAISELVAM Awesome CDK Repo](https://github.com/kalaiser/awesome-cdk)*
 * Blogs with CDK topics
     * [AWS Dev Tools Blog](https://aws.amazon.com/blogs/developer/tag/aws-cdk/)
     * [AWS DevOps Blog](https://aws.amazon.com/blogs/devops/tag/aws-cdk/)
@@ -43,6 +44,7 @@ This is a compilation of free and paid resources for the AWS CDK.
         * This is the best channel on YouTube with the greatest volume of content for the CDK but also AWS in general. Daniel has worked at AWS for almost a decade.
     * [FreeCodeCamp CDK Tutorial](https://www.youtube.com/watch?v=T-H4nJQyMig)
         * This was the first tutorial I watched when I first started  learning about the CDK.
+    * [Matthew Bonig's re:Invent Talk: Advanced AWS CDK](https://www.youtube.com/watch?v=Wzawix9bMAE)*
 * [Stack overflow for specific CDK related questions](https://stackoverflow.com/questions/tagged/aws-cdk)
 * IaC Generator
   * I promise I will do a deep dive on this service in the future but in the meantime...
@@ -52,9 +54,9 @@ This is a compilation of free and paid resources for the AWS CDK.
     * Really good for giving you code snippets if you can accurately describe what you are trying to build.
 * [AWS Community Slack](https://cdk.dev/)
     * A vibrant community where developers can ask questions, share insights, and discuss AWS CDK topics.
+    * [Also contains a great list of resources](https://cdk.dev/resources)*
 * Reddit for [r/AWS](https://www.reddit.com/r/aws/) and [r/aws_cdk](https://reddit.com/r/aws_cdk/)
     * Engage with the AWS community on Reddit to share experiences, tips, and tricks related to AWS CDK.
-* [Matthew Bonig's re:Invent Talk: Advanced AWS CDK](https://www.youtube.com/watch?v=Wzawix9bMAE)*
 
 > **_*_** Not mentioned in the video but still worth checking out!
 
