@@ -1,4 +1,4 @@
-# Unofficial Comprehensive AWS CDK Resource List
+# Unofficial Comprehensive AWS CDK Resource List - Updated August 2024
 <!-- Watch on [YouTube](https://www.youtube.com/@cloudmancer) -->
 
 This is a compilation of free and paid resources for the AWS CDK.
@@ -39,6 +39,7 @@ This is a compilation of free and paid resources for the AWS CDK.
     * [Dakota Lewallen's Substack](https://substack.com/@dakotalewallen)
     * [Ryan Dsouza's Dev.to](https://dev.to/ryands17)
     * [Rehan van der Merwe's Blog](https://rehanvdm.com/blog/aws-cdk-starter-configuration-multiple-environments-cicd)*
+    * [Ari Palo's Blog](https://aripalo.technology/blog/)*
 * YouTube
     * [Be A Better Dev](https://www.youtube.com/@BeABetterDev)
         * This is the best channel on YouTube with the greatest volume of content for the CDK but also AWS in general. Daniel has worked at AWS for almost a decade.
