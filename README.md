@@ -29,6 +29,7 @@ This is a compilation of free and paid resources for the AWS CDK.
     * [Jonathan Goldwasser's CDK GitHub Repos](https://github.com/jogold?tab=repositories&q=cdk&type=&language=&sort=) (CDK Contributor)
     * [Rehan van der Merwe's CDK GitHub Repos](https://github.com/rehanvdm?tab=repositories&q=cdk&type=&language=&sort=) (AWS Community Hero)*
     * [RAJKUMAR KALAISELVAM Awesome CDK Repo](https://github.com/kalaiser/awesome-cdk)*
+    * [Lee Gilmore's GitHub Repos](https://github.com/leegilmorecode?tab=repositories&q=&type=&language=&sort=)*
 * Blogs with CDK topics
     * [AWS Dev Tools Blog](https://aws.amazon.com/blogs/developer/tag/aws-cdk/)
     * [AWS DevOps Blog](https://aws.amazon.com/blogs/devops/tag/aws-cdk/)
