@@ -65,3 +65,5 @@ This is a compilation of free and paid resources for the AWS CDK.
 ## Paid Resources
 * [Tofig Hasanov CDK Pipelines Udemy Course](https://www.udemy.com/course/create-continuous-delivery-pipelines-on-aws-using-cdk/) \$64.99 (Frequently on sale for $9.99)
 * [The CDK Book](https://taimos.gumroad.com/l/cdkbook) $39
+* [Rocketleap AWS CDK Platform](www.rocketleap.dev)
+    * Complete AWS CDK Library that helps you build a secure landing zone and production-ready workloads.
