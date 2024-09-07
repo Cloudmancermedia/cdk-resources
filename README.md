@@ -57,7 +57,7 @@ This is a compilation of free and paid resources for the AWS CDK.
 * [AWS Community Slack](https://cdk.dev/)
     * A vibrant community where developers can ask questions, share insights, and discuss AWS CDK topics.
     * [Also contains a great list of resources](https://cdk.dev/resources)*
-* Reddit for [r/AWS](https://www.reddit.com/r/aws/) and [r/aws_cdk](https://reddit.com/r/aws_cdk/)
+* [r/AWS](https://www.reddit.com/r/aws/) and [r/aws_cdk](https://reddit.com/r/aws_cdk/)
     * Engage with the AWS community on Reddit to share experiences, tips, and tricks related to AWS CDK.
 
 > **_*_** Not mentioned in the video but still worth checking out!
@@ -65,3 +65,5 @@ This is a compilation of free and paid resources for the AWS CDK.
 ## Paid Resources
 * [Tofig Hasanov CDK Pipelines Udemy Course](https://www.udemy.com/course/create-continuous-delivery-pipelines-on-aws-using-cdk/) \$64.99 (Frequently on sale for $9.99)
 * [The CDK Book](https://taimos.gumroad.com/l/cdkbook) $39
+* [RocketLeap](https://www.rocketleap.dev/) Pricing on website.
+  * Enterprise level DevOps solutions built on the AWS CDK.
