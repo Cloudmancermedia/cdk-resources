@@ -1,5 +1,5 @@
 # Unofficial Comprehensive AWS CDK Resource List - Updated August 2024
-<!-- Watch on [YouTube](https://www.youtube.com/@cloudmancer) -->
+Watch on [YouTube](https://www.youtube.com/watch?v=KIVZuvxhSuo)
 
 This is a compilation of free and paid resources for the AWS CDK that span every skill level from beginner to advanced for just about any use case.
 ## Free Resources
