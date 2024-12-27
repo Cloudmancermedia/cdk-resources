@@ -1,7 +1,7 @@
-# Unofficial Comprehensive AWS CDK Resource List - Updated August 2024
-<!-- Watch on [YouTube](https://www.youtube.com/@cloudmancer) -->
+# Unofficial Comprehensive AWS CDK Resource List - Updated September 2024
+Watch on [YouTube](https://www.youtube.com/watch?v=KIVZuvxhSuo)
 
-This is a compilation of free and paid resources for the AWS CDK.
+This is a compilation of free and paid resources for the AWS CDK that span every skill level from beginner to advanced for just about any use case.
 ## Free Resources
 * [AWS Official CDK Resources Page](https://aws.amazon.com/cdk/resources/) - This should be your first stop when looking for resources! Some of the highlights:
     * [AWS CDK Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/10141411-0192-4021-afa8-2436f3c66bd8/en-US)
@@ -57,7 +57,7 @@ This is a compilation of free and paid resources for the AWS CDK.
 * [AWS Community Slack](https://cdk.dev/)
     * A vibrant community where developers can ask questions, share insights, and discuss AWS CDK topics.
     * [Also contains a great list of resources](https://cdk.dev/resources)*
-* Reddit for [r/AWS](https://www.reddit.com/r/aws/) and [r/aws_cdk](https://reddit.com/r/aws_cdk/)
+* [r/AWS](https://www.reddit.com/r/aws/) and [r/aws_cdk](https://reddit.com/r/aws_cdk/)
     * Engage with the AWS community on Reddit to share experiences, tips, and tricks related to AWS CDK.
 
 > **_*_** Not mentioned in the video but still worth checking out!
@@ -65,5 +65,5 @@ This is a compilation of free and paid resources for the AWS CDK.
 ## Paid Resources
 * [Tofig Hasanov CDK Pipelines Udemy Course](https://www.udemy.com/course/create-continuous-delivery-pipelines-on-aws-using-cdk/) \$64.99 (Frequently on sale for $9.99)
 * [The CDK Book](https://taimos.gumroad.com/l/cdkbook) $39
-* [Rocketleap AWS CDK Platform](www.rocketleap.dev)
-    * Complete AWS CDK Library that helps you build a secure landing zone and production-ready workloads.
+* [RocketLeap](https://www.rocketleap.dev/) Pricing on website.
+  * Enterprise level DevOps solutions built on the AWS CDK.
