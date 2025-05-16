@@ -1,4 +1,4 @@
-# Unofficial Comprehensive AWS CDK Resource List - Updated September 2024
+# Unofficial Comprehensive AWS CDK Resource List - Updated May 2025
 Watch on [YouTube](https://www.youtube.com/watch?v=KIVZuvxhSuo)
 
 This is a compilation of free and paid resources for the AWS CDK that span every skill level from beginner to advanced for just about any use case.
@@ -13,6 +13,8 @@ This is a compilation of free and paid resources for the AWS CDK that span every
     * [Official AWS CDK GitHub Examples](https://github.com/aws-samples/aws-cdk-examples)
       * A collection of simple and illustrative examples demonstrating the usage of AWS CDK in different scenarios.
       * Also contains links to tons of blogs, tutorials, open source repos and other resources.
+   * [CDK MCP Server](https://awslabs.github.io/mcp/servers/cdk-mcp-server/]
+      * MCP server for AWS Cloud Development Kit (CDK) best practices, infrastructure as code patterns, and security compliance with CDK Nag.
 * [CDK Construct Hub](https://constructs.dev/)
   * This hub is a comprehensive directory of CDK constructs shared by the community, providing advanced use cases and custom implementations.
   * If you want to build it, someone else probably already has and you can find it here
