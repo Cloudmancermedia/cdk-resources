@@ -1,4 +1,4 @@
-# Unofficial Comprehensive AWS CDK Resource List - Updated May 2025
+# Unofficial Comprehensive AWS CDK Resource List - Updated June 2025
 Watch on [YouTube](https://www.youtube.com/watch?v=KIVZuvxhSuo)
 
 This is a compilation of free and paid resources for the AWS CDK that span every skill level from beginner to advanced for just about any use case.
@@ -61,6 +61,7 @@ This is a compilation of free and paid resources for the AWS CDK that span every
     * [Also contains a great list of resources](https://cdk.dev/resources)*
 * [r/AWS](https://www.reddit.com/r/aws/) and [r/aws_cdk](https://reddit.com/r/aws_cdk/)
     * Engage with the AWS community on Reddit to share experiences, tips, and tricks related to AWS CDK.
+* [CDK Project Rules for Amazon Q Developer](https://github.com/cremich/cdk-project-rules) by [cremich](https://github.com/cremich)
 
 > **_*_** Not mentioned in the video but still worth checking out!
 
